@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "epiDeaths"]
 	path = epiDeaths
-	url = https://github.com/cran/epiDeaths
+	url = https://github.com/edsonzmartinez/epideaths
